@@ -28,11 +28,11 @@ function Footer() {
             </div>
             <div className="flex gap-2 items-center">
               <img src={ficon2} alt="mail" className="h-8 lg:h-8" />
-              <span>aliyzbsi68@hotmail.com</span>
+              <span>pizza@hotmail.com</span>
             </div>
             <div className="flex gap-2 items-center">
               <img src={ficon3} alt="phone" className="h-8 lg:h-8" />
-              <span>+90 216 123 45 67</span>
+              <span>+90 123 456 78 90</span>
             </div>
           </address>
         </article>
