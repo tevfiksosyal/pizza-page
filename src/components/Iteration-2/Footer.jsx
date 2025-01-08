@@ -50,7 +50,7 @@ function Footer() {
         </article>
 
         <article className="flex flex-col gap-4 items-start lg:items-start">
-          <a href="https://www.instagram.com/aliyzbsi/">Instagram</a>
+          <a href="https://www.instagram.com/tevfikfikreet/">Instagram</a>
           <div className="grid grid-cols-3 gap-2">
             <img src={insta1} alt="insta-0" />
             <img src={insta2} alt="insta-1" />
